@@ -3,7 +3,8 @@ import React, { Component } from "react";
 export default class MotMainCenter extends Component {
   constructor(props) {
     super(props);
-    this.props = 'one'
+    this.props = 'props'
+
 
     this.state = {
       count: 1,

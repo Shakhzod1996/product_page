@@ -3,7 +3,7 @@ import React from "react";
 export default function RightTable() {
   return (
     <div>
-      <table class="table">
+      <table className="table">
         <tbody>
         <tr>
             <td>Mark</td>
