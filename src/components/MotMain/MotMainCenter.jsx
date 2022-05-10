@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class MotMainCenter extends Component {
   constructor(props) {
     super(props);
-    this.props = 'props'
+    console.log(this.props);
 
 
     this.state = {
