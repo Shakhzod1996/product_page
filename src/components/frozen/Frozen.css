@@ -1,0 +1,35 @@
+.frozen {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.froze-ul {
+  display: flex;
+  align-items: center;
+}
+
+.froze-ul li {
+  display: flex;
+  align-items: center;
+  color: #4A90E2;
+}
+
+.froze-ul li i {
+  color: #000;
+}
+
+.back {
+  margin-bottom: 10px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.back i {
+  font-size: 25px;
+}
+
+.back p {
+  font-size: 16px;
+}

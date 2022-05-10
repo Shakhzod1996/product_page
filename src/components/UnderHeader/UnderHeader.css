@@ -1,0 +1,15 @@
+.ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.under-head-li a {
+  color: rgb(122, 122, 122);
+  transition: all .4s ease;
+  font-weight: 500;
+}
+
+.under-head-li a:hover {
+  color: #000;
+}
